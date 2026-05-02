@@ -4,6 +4,6 @@
     "buildCommand": "npm install --legacy-peer-deps && npm run build"
   },
   "deploy": {
-    "startCommand": "npx serve -s dist"
+    "startCommand": "npx serve -s build"
   }
 }
